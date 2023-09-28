@@ -1,0 +1,38 @@
+{
+    "appKeys": {
+        "KEY_NEXTCITY": 20,
+        "KEY_NEXTCITYDONE": 21,
+        "KEY_NEXTCITYTOTAL": 22,
+        "KEY_NEXTCOUNTRY": 23,
+        "KEY_NEXTCOUNTRYDONE": 24,
+        "KEY_NEXTCOUNTRYTOTAL": 25,
+        "KEY_NEXTSTEP": 26,
+        "KEY_NEXTSTEPDONE": 27,
+        "KEY_NEXTSTEPTOTAL": 28,
+        "KEY_QUERY": 1,
+        "KEY_RACEID": 31,
+        "KEY_TOTALDONE": 29,
+        "KEY_WALKID": 30
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "public+pebble@kpouer.com",
+    "enableMultiJS": true,
+    "longName": "The Beautiful Walk",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "The B Walk",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "13e46658-ff78-44b1-93a3-ecc95ee76606",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
